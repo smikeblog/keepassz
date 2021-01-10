@@ -55,6 +55,7 @@ cd build
 cmake ..
 make
 ```
+#### NOTE from smike: I added .appimage and json file used to create appimage 'cause in Arch QT4 was removed
 
 
 
